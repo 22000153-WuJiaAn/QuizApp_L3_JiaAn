@@ -69,18 +69,19 @@ const QuizApp = () => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#ffffff',
+    // flex: 1,
+    // backgroundColor: '#ffffff',
   },
   contentContainer: {
-    padding: 20,
-    paddingBottom: 60,
+     padding: 20,
+     paddingBottom: 60,
   },
   header: {
     fontSize: 28,
     fontWeight: 'bold',
     textAlign: 'center',
     marginBottom: 20,
+    marginTop: 20,
     color: '#000000',
   },
   card: {
